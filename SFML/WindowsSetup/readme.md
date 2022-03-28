@@ -5,20 +5,26 @@
 > Cmake_path_config.png
 ![alt text](readme_screenshot/cmake_path_config.png)
 ![alt text](readme_screenshot/chose_cmake_path.png)
+
 ### 1.2 Installing mingw-get-setup.exe
 > Recommended install MinGW files to C:\SFML directory
 ![alt text](readme_screenshot/mingw_inst.png)
 ![alt text](readme_screenshot/chose_all_basics_components.png)
+
 ### 1.3 Setup Path variables
 > Click on **properties**
 ![alt text](readme_screenshot/go_to_my_comp_right_click.png)
-Click on advance system settings
+
+> Click on advance system settings
 ![alt text](readme_screenshot/advanced_sys_sett.png)
-Click on **environment variables**
+
+> Click on **environment variables**
 ![alt text](readme_screenshot/click_on_advanced_sys_variables.png)
-Choose **Path** variable and click on **edit**
+
+> Choose **Path** variable and click on **edit**
 ![alt text](readme_screenshot/edit_Path_var.png)
-Click on **New** button and add "C:\MinGW" ,
+
+> Click on **New** button and add "C:\MinGW" ,
 Then in the same way add "C:\Program Files\cmake-3.23.0-rc4-windows-x86_64"
 Your system variables should look like:
 ![alt text](readme_screenshot/add_path.png)
