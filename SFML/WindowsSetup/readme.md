@@ -84,3 +84,7 @@ else SFML_USE_STATIC_STD_LIBS ✅ , but you can't choose bought
 > To testing whether all works fine use this Cmake. 
 
 > Simple build project and run executable file
+
+> If your setup is correct you will get next result: 
+
+>![alt text](readme_screenshot/sfml_run.png) 
