@@ -1,2 +1,1 @@
-# CppTour
-!
+# Sfml setup
